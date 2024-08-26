@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Alice Johnson",
+        "subject": "Calculus I",
+        "stars": 4,
+        "review": "Very knowledgeable, but sometimes hard to follow. Great at answering questions during office hours."
+      },
+      {
+        "professor": "Dr. Michael Smith",
+        "subject": "Introduction to Psychology",
+        "stars": 5,
+        "review": "Amazing lecturer! Makes difficult concepts easy to understand. Highly recommended."
+      },
+      {
+        "professor": "Dr. Emily Davis",
+        "subject": "Organic Chemistry",
+        "stars": 3,
+        "review": "Challenging course, but the professor is fair. Lectures can be dry, but the labs are engaging."
+      },
+      {
+        "professor": "Dr. Robert Wilson",
+        "subject": "World History",
+        "stars": 2,
+        "review": "Lectures were unorganized, and the material was often confusing. Not very approachable outside of class."
+      },
+      {
+        "professor": "Dr. Karen Thompson",
+        "subject": "Introduction to Programming",
+        "stars": 4,
+        "review": "Good teacher with a lot of experience. Homework is tough but useful for learning the material."
+      },
+      {
+        "professor": "Dr. David Martinez",
+        "subject": "Physics II",
+        "stars": 5,
+        "review": "Passionate about physics and great at explaining complex topics. Exams are challenging but fair."
+      },
+      {
+        "professor": "Dr. Jennifer Lee",
+        "subject": "Literature and Composition",
+        "stars": 3,
+        "review": "Engaging discussions, but grading can be harsh. Be prepared to write a lot."
+      },
+      {
+        "professor": "Dr. William Brown",
+        "subject": "Macroeconomics",
+        "stars": 4,
+        "review": "Clear and concise lectures. Provides real-world examples that help solidify the concepts."
+      },
+      {
+        "professor": "Dr. Patricia Taylor",
+        "subject": "Biology 101",
+        "stars": 2,
+        "review": "Not very enthusiastic about the subject. Lectures are dry, and exams are tricky."
+      },
+      {
+        "professor": "Dr. John Miller",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Very passionate and knowledgeable. Encourages class participation and critical thinking."
+      },
+      {
+        "professor": "Dr. Maria Gonzalez",
+        "subject": "Spanish II",
+        "stars": 4,
+        "review": "Engaging and helpful. Makes learning a new language fun and interactive."
+      },
+      {
+        "professor": "Dr. Charles Moore",
+        "subject": "Philosophy of Ethics",
+        "stars": 3,
+        "review": "Interesting material, but lectures can be monotonous. Requires a lot of reading."
+      },
+      {
+        "professor": "Dr. Linda Anderson",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Passionate about the environment. Very approachable and helpful outside of class."
+      },
+      {
+        "professor": "Dr. Christopher Harris",
+        "subject": "Statistics",
+        "stars": 4,
+        "review": "Clear and organized lectures. Homework can be tough, but it's good practice for the exams."
+      },
+      {
+        "professor": "Dr. Nancy Clark",
+        "subject": "Art History",
+        "stars": 2,
+        "review": "Lectures are boring, and the exams are difficult. Not much interaction with students."
+      },
+      {
+        "professor": "Dr. George Young",
+        "subject": "Calculus II",
+        "stars": 5,
+        "review": "Excellent teacher. Explains everything clearly and provides plenty of practice problems."
+      },
+      {
+        "professor": "Dr. Barbara King",
+        "subject": "Human Anatomy",
+        "stars": 4,
+        "review": "Challenging course, but the professor is very knowledgeable. Labs are very hands-on."
+      },
+      {
+        "professor": "Dr. Richard White",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Interesting topics, but the professor is not very engaging. Assignments are fair."
+      },
+      {
+        "professor": "Dr. Deborah Hall",
+        "subject": "Creative Writing",
+        "stars": 5,
+        "review": "Inspirational and encouraging. Provides great feedback on writing assignments."
+      },
+      {
+        "professor": "Dr. James Green",
+        "subject": "Microeconomics",
+        "stars": 3,
+        "review": "The material is challenging, and the professor is a tough grader. Be prepared to work hard."
+      }
+    ]
+  }
+  
